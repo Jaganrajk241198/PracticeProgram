@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;incedoplay&apos;&#x0D;&#x0A;- Original project: &apos;incedoplay&apos;&#x0D;&#x0A;- Original element: &apos;com.projectincedoplay.reglog.UserRepository.UserRepoImpl.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.projectincedoplay.reglog.UserRepository{UserRepoImpl.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1660224838018" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;com.junit.project.MyMathTest.sum_with3numbers().result&apos; in &apos;com.junit.project.MyMathTest.sum_with3numbers()&apos;&#x0D;&#x0A;- Original project: &apos;junitproject&apos;&#x0D;&#x0A;- Original element: &apos;com.junit.project.MyMathTest.sum_with3numbers().result&apos;" description="Inline local variable &apos;result&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/test&lt;com.junit.project{MyMathTest.java" selection="223 6" stamp="1659367263722" version="1.0"/>
+</session>

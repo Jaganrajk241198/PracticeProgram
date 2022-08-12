@@ -1,0 +1,5 @@
+package com.projectincedoplay.reglog.UserRepository;
+
+public class UserRepoImpl {
+
+}
